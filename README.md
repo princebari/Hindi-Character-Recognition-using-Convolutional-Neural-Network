@@ -14,3 +14,6 @@ Our training dataset contains 2000 examples of each character, for a total of 92
 
 <h2>Inspiration</h2>
 Character recognition (for any language) is important to transcribe the written text into digital representations. For many difficult-to-read handwritten instances of lettering, human intervention is required via methods such as Captcha, Gamification, or manual annotation. This process is often labor and cost-expensive. However, for many character sets, deep learning models can accurately transcribe handwriting to digital encoding
+
+<h2>Problem Statement</h2>
+The objective of this deep learning project is to create an efficient and accurate system for recognizing Hindi characters using Convolutional Neural Network (CNN). The system should be able to accurately identify and classify handwritten hindi characters. By leveraging the power of deep learning techniques, this project aims to develop a reliable Hindi character recognition system that can have practical applications in various fields.
