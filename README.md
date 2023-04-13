@@ -12,8 +12,11 @@ Devanagari is an Indic script used in India and Nepal, and our dataset contains 
 
 Our training dataset contains 2000 examples of each character, for a total of 92,000 images. Each image consists of 32x32 pixels and 3 color channels. The test set consists of 13800 total images (300 for each character) and the training set consists of 78200 images (1700 per character). This accounts for an 85/15 split.
 
+Data Source : https://www.kaggle.com/datasets/suvooo/hindi-character-recognition/code
+
 <h2>Inspiration</h2>
 Character recognition (for any language) is important to transcribe the written text into digital representations. For many difficult-to-read handwritten instances of lettering, human intervention is required via methods such as Captcha, Gamification, or manual annotation. This process is often labor and cost-expensive. However, for many character sets, deep learning models can accurately transcribe handwriting to digital encoding
 
 <h2>Problem Statement</h2>
 The objective of this deep learning project is to create an efficient and accurate system for recognizing Hindi characters using Convolutional Neural Network (CNN). The system should be able to accurately identify and classify handwritten hindi characters. By leveraging the power of deep learning techniques, this project aims to develop a reliable Hindi character recognition system that can have practical applications in various fields.
+
